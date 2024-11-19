@@ -1,0 +1,15 @@
+Package: sbwutils
+Title: Utilities for modelling spruce budworm eruptions across Canada
+Description: What the package does (one paragraph).
+Version: 0.0.0.9000
+Authors@R: 
+    c(
+      person(c("Alex", "M"), "Chubaty", email = "achubaty@for-cast.ca", role = c("aut", "cre"),
+             comment = c(ORCID = "0000-0001-7146-8135")),
+      person(c("Barry", "J"), "Cooke", email = "barry.cooke@nrcan-rncan.gc.ca", role = "aut")
+    )
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
